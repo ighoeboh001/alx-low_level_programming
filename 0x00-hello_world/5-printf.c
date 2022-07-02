@@ -1,23 +1,12 @@
 #include <stdio.h>
-
-<<<<<<< HEAD
-
-
-
-=======
-
 /**
+ * main - Entry point
  *
- *  *
- *
- *   *  *main - Entry point
- *
- *   @@ -20,3 +23,4 @@ int main(void)
- *
- *   	printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
- *
- *   		return (0);
- *
- *   		}
- *
- *   		>>>>>>> 8bc1628d382fd3e358901d68c6d17094c004589c
+ * Return: Always 0 (Success)
+ */
+int main(void)
+{
+printf("with proper grammar, but the outcome is a piece of art,\n");
+
+return (0);
+}
